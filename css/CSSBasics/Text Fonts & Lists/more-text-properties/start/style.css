@@ -1,0 +1,69 @@
+
+body {
+	padding: 1em 6em;
+	font: 1.2em/1.5 sans-serif;
+	background-color: #dfdfdf;
+}	
+	
+p {
+	width: 17.5em;
+	padding: 1em;
+	background: #FFF;
+	border: 1px solid #cbcbcb;
+}
+
+/* Text Styles
+------------------------------------------------------- */
+
+
+h1 {
+	color: #2d2d2d;
+	font-size: 3.1em;
+	text-shadow: -1px -3px 8px rgba(62, 106, 168, .8);
+}	
+
+
+.text-overflow {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.word-wrap {
+	word-wrap: break-word;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

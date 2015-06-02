@@ -1,0 +1,99 @@
+
+/**************************
+CLASS SELECTORS
+
+.container {
+	width: 740;
+	margin: auto;
+}
+
+.main-header {
+	height: 110px;
+	color: white;
+	background: royalblue;
+}
+
+.main-content {
+	padding: 20px;
+	background-color: lightgrey;
+}
+
+.main-footer {
+	height: 100px;
+	color: white;
+	background-color: black;
+}
+
+.base {
+	padding-top: 50px;
+	color: white;
+	text-align: center;
+	font-size: 20px;
+}
+
+.main-content p {
+	font-size: 21px;
+	line-height: 1.5;
+	margin-top: 32px;
+}
+**************************/
+
+/**************************
+ID SELECTORS | SPECIFICITY | BROWSER ANCHORS
+
+#main-content {
+	padding: 20px;
+	background-color: lightgrey;
+	height: 800px;
+}
+
+**************************/
+
+
+
+/**************************
+UNIVERSAL SELECTOR
+* {
+	margin: 0;
+	padding: 0;
+	color: red;
+}
+**************************/
+
+
+
+/**************************
+DECENDING SELECTORS
+
+body {
+	background-color: lightblue;
+	padding: 40px;
+}
+
+
+h1 {
+	color: blue;
+	font-size: 40px;
+}
+
+h2 {
+	color: red;
+}
+
+p {
+	color: white;
+	padding: 10px;
+	background-color: orange;
+}
+
+h1 span {
+	color: darkblue;
+
+}
+
+p span {
+	color: red;
+	font-weight: bold;
+}
+
+**************************/

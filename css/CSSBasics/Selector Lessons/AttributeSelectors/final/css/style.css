@@ -1,0 +1,36 @@
+body {
+	padding: 2% 25%;
+	font: 1em/1.5 sans-serif;
+}
+form {
+	margin-top: 30px;
+}
+
+/* Attribute Selectors */
+
+a[class="foo"] {
+	padding: 5px;
+	background-color: crimson;  
+	color: white;
+}
+
+input[type="email"] {
+	width: 200px;
+	height: 25px;
+	border: 2px solid grey;
+	background: lightyellow;
+}
+
+input[type="submit"] {
+	margin-left: 5px;
+	width: 100px;
+	height: 30px;
+	border: none;
+	background: steelblue;
+	color: white;
+}
+
+a[target="_blank"] {
+	text-decoration: none;
+	border-bottom: 2px dotted crimson;
+}

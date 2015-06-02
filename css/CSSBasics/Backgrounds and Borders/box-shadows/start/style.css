@@ -1,0 +1,14 @@
+
+body {
+	background: #3a3a3a;
+}
+
+.box {
+	margin: 3em auto;
+	width: 700px;
+	height: 500px;
+	border-radius: 8px;
+	background: url('img/bg.png');
+
+	box-shadow: 0px 20px 30px -10px rgba(0,0,0,.8);
+}

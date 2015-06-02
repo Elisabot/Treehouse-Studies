@@ -1,0 +1,27 @@
+
+div {
+	margin: 50px auto;
+	font: 1.1em/1.5 sans-serif;
+	box-sizing: border-box;
+}
+
+.sketch-img {
+	width: 700px;
+	height: 500px;
+	border-radius: 10px;
+	background: url('img/smiley.png') no-repeat right center, url('img/pencil.png') no-repeat left top, url('img/texture.jpg') #d6bb80;
+	background-size: 250px, 250px, 50% 45%, 110%;
+}
+
+/* Full Page Image */
+
+.box {
+	width: 700px;
+	height: 500px;
+	padding: 30px;
+	background: url('img/full-bg.jpg') no-repeat center;
+	border: 15px solid rgba(35,66,97,.6);
+	background-size: contain;
+	background:-origin: content-box;
+}
+
